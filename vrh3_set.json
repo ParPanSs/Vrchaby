@@ -1,0 +1,25 @@
+[
+    "Menu",
+    {
+        "Game_with_computer": 1,
+        "AI": false
+    },
+    "GameField",
+    {
+        "Gamer1": 1,
+        "Gamer1_stone_color": "\u010dern\u00e1",
+        "Gamer1_name": "Po\u010d\u00edta\u010d",
+        "Gamer2": 2,
+        "Gamer2_stone_color": "b\u00edl\u00fd",
+        "Gamer2_name": "\u010clov\u011bk 1",
+        "Gamer_current": 2,
+        "Gamer_current_color": "\u010dern\u00e1",
+        "Gamer_current_dice": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "RandNext": 13555
+    }
+]
